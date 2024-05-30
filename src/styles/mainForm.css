@@ -1,0 +1,66 @@
+.container
+{
+    text-align: center;
+    margin-top: 40px;
+}
+.personalInfo,.educationInfo,.documentInfo
+{
+    margin-left: 300px;
+    border:1px solid gray;
+    width:700px;
+    height:450px;
+    
+}
+span
+{
+    color:red;
+}
+
+.nextBtn,.prevBtn
+{
+    color:red;
+    margin-left: 10px;
+    width:100px;
+    height: 30px;
+    font-size: medium;
+    margin-top: 20px;
+}
+.tabs button
+{
+    
+    width:170px;
+    height: 40px;
+    margin-left: 4px;
+    color:rgb(72, 10, 31);
+    background-color:white;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+table{
+    margin-left: 200px;
+    font-size: large;
+    font-weight: bold;
+    color:gray;
+    
+}
+table td,tr
+{
+    padding: 20px;
+}
+h2
+{
+color:brown;
+}
+.submitBtn
+{
+    color:white;
+    width:100px;
+    font-size: medium;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 3px;
+    border: 1px solid grey;
+    background-color: palevioletred;
+}
